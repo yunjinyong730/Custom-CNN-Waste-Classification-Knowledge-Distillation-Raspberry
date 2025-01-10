@@ -1,5 +1,6 @@
-<img width="909" alt="스크린샷 2025-01-05 오후 8 35 00" src="https://github.com/user-attachments/assets/61e2c14d-a9ee-4700-8c76-d5932034e683" /># 쓰레기 분류 Custom CNN 모델 Knowledge Distillation on Raspberry
-# Custom CNN 모델을 쓰레기를 분류하는 모델 학습
+# 쓰레기 분류 Custom CNN 모델 Knowledge Distillation on Raspberry
+
+## Custom CNN 모델을 쓰레기를 분류하는 모델 학습
 
 - Model Architecture
 
